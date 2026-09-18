@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "exam2react1/dist",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "rootDirectory": "exam2react1"
+}
