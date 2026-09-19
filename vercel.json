@@ -1,7 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "cd exam2react1 && npm install && npm run build",
   "outputDirectory": "exam2react1/dist",
-  "installCommand": "npm install",
-  "framework": "vite",
-  "rootDirectory": "exam2react1"
+  "installCommand": "echo 'install handled in buildCommand'"
 }
