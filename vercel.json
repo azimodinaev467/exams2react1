@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd exam2react1 && npm install && npm run build",
-  "outputDirectory": "exam2react1/dist",
-  "installCommand": "echo 'install handled in buildCommand'"
-}
